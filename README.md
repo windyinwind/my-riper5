@@ -6,8 +6,8 @@
 
 ## 特性
 
-1. 编辑器由 Curso 改为 VS Code（Change Editor to VS Code）
-2. 优化了模式切换指令，减少输入量：
+1. 编辑器由 Cursor 改为 VS Code（Change Editor to VS Code）
+2. 优化了模式切换指令，减少输入量：(Less typing for mode switching)
 
    - “ENTER RESEARCH MODE” → “RESEARCH MODE”
    - “ENTER INNOVATE MODE” → “INNOVATE MODE”
@@ -17,4 +17,5 @@
 
 ---
 
-请参考[怎么设置CLAUDE.md](./怎么设置CLAUDE.md)以获得 Claude Code 的环境配置和使用说明。
+请参考官网以获得 Claude Code 的环境配置和使用说明。
+https://docs.anthropic.com/en/docs/claude-code/settings
